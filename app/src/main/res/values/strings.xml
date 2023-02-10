@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Guess Number</string>
+    <string name="note_text">Note:- If the matching digits are in their right positions, they are \"bulls\", if in different positions, they are \"cows\".</string>
+    <string name="secret_text">Guess The Secret 4 Digit Number\n and Enter Below</string>
+</resources>
